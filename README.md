@@ -2,6 +2,8 @@
 
 I’m a Data Engineer specializing in **scalable data platforms, multi-cloud infrastructure, and AI/LLM-native systems**.  
 
+7+ years building production data systems across ad tech, sports, and SaaS.
+
 ### 🚀 Featured Projects
 - **[Claude MCP–RAG Pipeline](https://github.com/kenjisekino/claude-rag-mcp-pipeline)**  
   Enterprise-ready Retrieval-Augmented Generation pipeline with **Model Context Protocol (MCP)** integration.  
