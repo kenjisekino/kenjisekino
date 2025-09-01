@@ -9,10 +9,13 @@ I’m a Data Engineer specializing in **scalable data platforms, multi-cloud inf
 
 ### 🛠️ Technical Focus
 - **Cloud Platforms**: GCP, AWS  
-- **Data Platforms**: BigQuery, Snowflake, Dataflow, Apache Spark (EMR)  
+- **Data Platforms**: BigQuery, Snowflake, Dataflow, Apache Spark (EMR)
+- **Programming Languages**: Python, SQL
 - **Workflow Orchestration**: Airflow, Composer  
-- **Infra & DevOps**: Docker, Kubernetes, Terraform, Cloud Build  
-- **AI/LLM-Native Systems**: RAG, MCP, Embedding Models, Conversational AI (Claude, GPT)  
+- **Infra & DevOps**: Docker, Kubernetes, Terraform, Cloud Build
+- **Transformation & Modeling**: dbt
+- **Databases**: PostgreSQL, MySQL, Redshift
+- **AI/LLM-Native Systems**: RAG, MCP, Embedding Models, Conversational AI (Claude, GPT)
 
 ---
 
