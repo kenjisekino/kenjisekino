@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Kenji 👋
 
-<!--
-**kenjisekino/kenjisekino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Engineer specializing in **scalable data platforms, multi-cloud infrastructure, and AI/LLM-native systems**.  
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
+- **[Claude MCP–RAG Pipeline](https://github.com/kenjisekino/claude-rag-mcp-pipeline)**  
+  Enterprise-ready Retrieval-Augmented Generation pipeline with **Model Context Protocol (MCP)** integration.  
+  Includes modular architecture, vector database support, semantic chunking, and production-ready deployment packaging.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Focus
+- **Cloud Platforms**: GCP, AWS  
+- **Data Platforms**: BigQuery, Snowflake, Dataflow, Apache Spark (EMR)  
+- **Workflow Orchestration**: Airflow, Composer  
+- **Infra & DevOps**: Docker, Kubernetes, Terraform, Cloud Build  
+- **AI/LLM-Native Systems**: RAG, MCP, Embedding Models, Conversational AI (Claude, GPT)  
+
+---
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kenjisekino)
